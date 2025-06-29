@@ -1,10 +1,6 @@
-DASHBOARD-1
+DasBoards
 
-https://public.tableau.com/views/iphoneimpactinindia_17508008627440/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
-
-DASHBOARD-2
-
-https://public.tableau.com/views/Mydashboard-2_17508009522640/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+https://public.tableau.com/views/iphoneimpactinindia_17512152635010/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 STORY-1
 
